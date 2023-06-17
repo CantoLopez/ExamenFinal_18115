@@ -1,0 +1,15 @@
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\bin\Debug\net6.0\Examen_21_18115.exe
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\bin\Debug\net6.0\Examen_21_18115.deps.json
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\bin\Debug\net6.0\Examen_21_18115.runtimeconfig.json
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\bin\Debug\net6.0\Examen_21_18115.dll
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\bin\Debug\net6.0\Examen_21_18115.pdb
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\Examen_21_18115.csproj.AssemblyReference.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\Examen_21_18115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\Examen_21_18115.AssemblyInfoInputs.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\Examen_21_18115.AssemblyInfo.cs
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\Examen_21_18115.csproj.CoreCompileInputs.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\Examen_21_18115.dll
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\refint\Examen_21_18115.dll
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\Examen_21_18115.pdb
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\Examen_21_18115.genruntimeconfig.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Examen_21_18115\obj\Debug\net6.0\ref\Examen_21_18115.dll
